@@ -1,0 +1,4 @@
+HELLO=Hello world!
+PATH=/home/raf/venv/bin:/home/raf/miniconda2/bin:/home/raf/miniconda2/condabin:~/Downloads/ngsplot/bin:/home/raf/miniconda3/bin:/home/raf/bin:/home/raf/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+HOME=/tmp/34ttm273
+TMPDIR=/tmp/tmpe3b042wx
